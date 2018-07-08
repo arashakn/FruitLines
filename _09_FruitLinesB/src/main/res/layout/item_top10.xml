@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:weightSum="10" 
+        >
+
+        <TextView
+            android:id="@+id/nuTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="No"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ff6500" />
+
+        <TextView
+            android:id="@+id/nameTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="Name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ff6500" />
+
+        <TextView
+            android:id="@+id/scoreTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:text="Score"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ff6500" />
+
+        <TextView
+            android:id="@+id/levelTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="Level"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ff6500" />
+    </LinearLayout>
+
+</RelativeLayout>

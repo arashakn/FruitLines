@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Fruit Lines</string>
+     <string name="web_link">http://play.google.com/store/apps/details?id=amaztricks.columns.activity</string>
+     <string name="app_list_link">market://search?q=pub:Love Hana</string>
+    <string name="startapp_dev_id">108863477</string>
+    <string name="startapp_app_id">205998513</string>
+    <!-- TODO: Replace this by your app's app ID for google play service! -->
+    <string name="app_id">724261156110</string>
+    <string name="interstitialAd">ca-app-pub-2287645634707543/9569311119</string>
+    <string name="leaderboard_fruit_lines">CgkIjurQiooVEAIQCA</string>
+    <string name="app_info"><DATA><![CDATA[<b>Fruit Lines</b><br/>Develop by<br/>Amazing Tricks<br/>Contact us by:<br/>ungdungchuoi@gmail.com ]]></DATA></string>
+    <string name="noBtn">No</string>
+    <string name="yesBtn">Yes</string>
+    <string name="selectBtnt">Do you want to exit?</string>
+    <string name="quitBtn">Quit</string>
+    <string name="quitTitle">Quit game:</string>
+    <string name="rateBtn">Rate</string>
+    <string name="shareBtn">Share</string>
+    <string name="welcome">Hope you enjoy this game!</string>
+
+</resources>

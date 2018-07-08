@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/09_FruitLinesB.iml" filepath="$PROJECT_DIR$/09_FruitLinesB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09_FruitLinesB/_09_FruitLinesB.iml" filepath="$PROJECT_DIR$/_09_FruitLinesB/_09_FruitLinesB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngine/andEngine.iml" filepath="$PROJECT_DIR$/andEngine/andEngine.iml" />
+    </modules>
+  </component>
+</project>
